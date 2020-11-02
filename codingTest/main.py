@@ -1,10 +1,4 @@
-n = 1260
-count = 0
-
-coins_types = [500, 100, 50, 10]
-
-for coin in coins_types:
-    count += n // coin
-    n %= coin
-
-print(count)
+#import greedy.ch3_1
+#import greedy.ch3_2
+#import greedy.ch3_3
+import greedy.ch3_4
