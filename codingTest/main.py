@@ -8,4 +8,12 @@
 #import greedy.ch11_3
 #import greedy.ch11_4
 #import greedy.ch11_5
-import greedy.ch11_6
+#import greedy.ch11_6
+
+#import baekjoon.level2.no1
+#import baekjoon.level2.no2
+#import baekjoon.level2.no3
+#import baekjoon.level2.no4
+import baekjoon.level2.no5
+
+
