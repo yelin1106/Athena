@@ -1,6 +1,8 @@
 # 문자열 뒤집기
 # 난이도 1
 # 풀이시간 27분/20분
+
+#틀림
 import math
 
 data=list(input())

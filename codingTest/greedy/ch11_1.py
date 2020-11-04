@@ -2,6 +2,8 @@
 # 난이도 1
 # 풀이시간 18분/30분
 
+#틀림
+
 n=input()
 data=list(map(int, input().split()))
 data.sort()
