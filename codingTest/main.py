@@ -1,3 +1,4 @@
+##1주차
 #import greedy.ch3_1
 #import greedy.ch3_2
 #import greedy.ch3_3
@@ -14,6 +15,10 @@
 #import baekjoon.level2.no2
 #import baekjoon.level2.no3
 #import baekjoon.level2.no4
-import baekjoon.level2.no5
+#import baekjoon.level2.no5
 
 
+##2주차
+#import realization.ch4_1
+#import realization.ch4_2
+import realization.ch4_3
