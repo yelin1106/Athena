@@ -21,4 +21,10 @@
 ##2주차
 #import realization.ch4_1
 #import realization.ch4_2
-import realization.ch4_3
+#import realization.ch4_3
+
+
+##4주차
+#import baekjoon.level20.search_num
+#import baekjoon.level20.number_card2
+import baekjoon.level20.cut_lenwire
