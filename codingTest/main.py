@@ -27,4 +27,5 @@
 ##4주차
 #import baekjoon.level20.search_num
 #import baekjoon.level20.number_card2
-import baekjoon.level20.cut_lenwire
+#import baekjoon.level20.cut_lenwire
+import baekjoon.level20.cut_tree
