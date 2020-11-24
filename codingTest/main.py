@@ -32,4 +32,5 @@
 #import baekjoon.level20.internet_router
 
 #import baekjoon.level6.sum_of_nth
-import baekjoon.level6.self_number
+#import baekjoon.level6.self_number
+import baekjoon.level6.hansu
