@@ -1,12 +1,12 @@
 #한수
 
 def solve(n:int)->int:
-  if n<10:
+  if n<100:
     cnt=n
     return cnt
   else:
-    cnt=9
-  for num in range(10,n+1):
+    cnt=99
+  for num in range(100,n+1):
     num1=num%10
     num//=10
     num2=num%10
