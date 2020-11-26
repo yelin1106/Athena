@@ -40,3 +40,5 @@
 
 ## Week 5 (20/11/25~20/11 pm 12) 
 - [ ] do it 05. 재귀 알고리즘
+- [ ] jump to python 6-1~6-3
+- [ ] baekjoon level7 문자열

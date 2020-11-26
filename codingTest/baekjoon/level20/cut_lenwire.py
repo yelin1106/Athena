@@ -8,9 +8,7 @@ lines=[]
 for i in range(n):
   lines.append(int(input()))
 
-lines.sort()
-
-max_line=lines[-1]
+max_line=max(lines)
 
 start=1
 end=max_line
