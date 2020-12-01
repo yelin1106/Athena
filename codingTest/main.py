@@ -38,4 +38,9 @@
 ##5주차
 #import baekjoon.level7_string.ascii_code
 #import baekjoon.level7_string.sum_of_num
-import baekjoon.level7_string.find_alphabet
+#import baekjoon.level7_string.find_alphabet
+#import baekjoon.level7_string.string_repeat
+#import baekjoon.level7_string.word_study
+#import baekjoon.level7_string.word_count
+#import baekjoon.level7_string.sangsu
+import baekjoon.level7_string.dial
