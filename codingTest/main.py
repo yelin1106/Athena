@@ -43,4 +43,6 @@
 #import baekjoon.level7_string.word_study
 #import baekjoon.level7_string.word_count
 #import baekjoon.level7_string.sangsu
-import baekjoon.level7_string.dial
+#import baekjoon.level7_string.dial
+#import baekjoon.level7_string.croatia_alphabet
+import baekjoon.level7_string.group_word_checker

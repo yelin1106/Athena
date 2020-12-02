@@ -1,8 +1,11 @@
 # athena
 🏹Αθηνά⚔
 
-## Week 1 (20/10/29~20/11/03)
-### Jump to Python
+## Week 1 (20/10/29~20/11/04 pm 1)
+- [ ] jump to python 4-1까지
+- [ ] 이코테 01. 그리디 Part2, Part3
+- [ ] baekjoon level1. 입출력과 사칙연산
+- [ ] baekjoon level2. if문
 
 ### Baekjoon
 | level1 (입출력과 사칙연산) | level2 (if문) |
@@ -30,7 +33,7 @@
 |  | [X] Q05 볼링공 고르기 |
 |  | [ ] Q06 무지의 먹방 라이브 |
 
-## Week 2 (20/11/04~20/11/10)
+## Week 2 (20/11/04~20/11/11 pm 1)
 - [ ] Part2) chap4 구현 (3문)
 - [ ] Part2) chap5 DFS (3문)
 - [ ] 백준) for (11문)
@@ -38,7 +41,26 @@
 - [ ] 점프투파이썬) 4장 전부 공부
 - [ ] 점프투파이썬) 연습문제
 
-## Week 5 (20/11/25~20/11 pm 12) 
+## Week 3 (20/11/11~20/11/18 pm 1)
+- [ ] jump to python 5-3 까지
+- [ ] do it 01. 알고리즘 기초
+- [ ] do it 02. 기본 자료구조와 배열
+- [ ] do it 03. 검색 알고리즘 03 이진검색
+- [ ] baekjoon level5 1차원 배열
+
+## Week 4 (20/11/11~20/11/25 am 11)
+- [ ] jump to python 5장 끝까지
+- [ ] do it 03. 검색 알고리즘 04 해시법
+- [ ] do it 04. 스택과 큐
+- [ ] baekjoon level6 함수
+
+## Week 5 (20/11/25~20/12/02 pm 12) 
 - [ ] do it 05. 재귀 알고리즘
 - [ ] jump to python 6-1~6-3
 - [ ] baekjoon level7 문자열
+
+## Week 6 (20/12/12~20/12/13 pm 2)
+- [ ] do it 06. 정렬 알고리즘
+- [ ] jump to python 6장 다
+- [ ] baekjoon 수학1
+- [ ] baekjoon 재귀
