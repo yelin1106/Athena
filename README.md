@@ -51,10 +51,10 @@
 
 
 ## Week 3 (20/11/11~20/11/18 pm 1)
-- [ ] jump to python 5-3 까지
-- [ ] do it 01. 알고리즘 기초
-- [ ] do it 02. 기본 자료구조와 배열
-- [ ] do it 03. 검색 알고리즘 03 이진검색
+- [X] jump to python 5-3 까지
+- [X] do it 01. 알고리즘 기초
+- [X] do it 02. 기본 자료구조와 배열
+- [X] do it 03. 검색 알고리즘 03 이진검색
 - [ ] baekjoon step5 1차원 배열 (7문)
 
 ### Baekjoon
@@ -70,10 +70,10 @@
 
 
 ## Week 4 (20/11/11~20/11/25 am 11)
-- [ ] jump to python 5장 끝까지
-- [ ] do it 03. 검색 알고리즘 04 해시법
-- [ ] do it 04. 스택과 큐
-- [ ] baekjoon step6 함수 (3문)
+- [X] jump to python 5장 끝까지
+- [X] do it 03. 검색 알고리즘 04 해시법
+- [X] do it 04. 스택과 큐
+- [X] baekjoon step6 함수 (3문)
 
 ### Baekjoon
 | step6 함수 |
@@ -84,9 +84,9 @@
 
 
 ## Week 5 (20/11/25~20/12/02 pm 12) 
-- [ ] do it 05. 재귀 알고리즘
-- [ ] jump to python 6-1~6-3
-- [ ] baekjoon step7 문자열 (10문)
+- [X] do it 05. 재귀 알고리즘
+- [X] jump to python 6-1~6-3
+- [X] baekjoon step7 문자열 (10문)
 
 ### Baekjoon
 | step7 문자열 |
