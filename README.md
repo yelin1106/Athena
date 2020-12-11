@@ -105,18 +105,18 @@
 
 ## Week 6 (20/12/12~20/12/13 pm 2)
 - [ ] do it 06. 정렬 알고리즘
-- [ ] jump to python 6장 다
+- [X] jump to python 6장 다
 - [ ] baekjoon step8 수학1 (8문)
 - [ ] baekjoon step10 재귀 (4문)
 
 ### Baekjoon
 | step8 수학1 | step10 재귀 |
 |---|---|
-| 손익분기점 | 팩토리얼 |
-| 설탕 배달 | 피보나치 수 5 |
-| 벌집 | 별 찍기 - 10 |
-| 분수찾기 | 하노이 탑 이동 순서 |
-| 달팽이는 올라가고 싶다 |  |
-| ACM 호텔 |  |
-| 부녀회장이 될테야 |  |
-| Fly me to the Alpha Centauri |  |
+| :heavy_check_mark: 손익분기점 | 팩토리얼 |
+| :heavy_check_mark: 설탕 배달 | 피보나치 수 5 |
+| :heavy_check_mark: 벌집 | 별 찍기 - 10 |
+| :heavy_check_mark: 분수찾기 | 하노이 탑 이동 순서 |
+| :heavy_check_mark: 달팽이는 올라가고 싶다 |  |
+| :heavy_check_mark: ACM 호텔 |  |
+| :heavy_check_mark: 부녀회장이 될테야 |  |
+| :heavy_check_mark: Fly me to the Alpha Centauri |  |

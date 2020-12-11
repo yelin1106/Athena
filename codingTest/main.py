@@ -45,4 +45,14 @@
 #import baekjoon.level7_string.sangsu
 #import baekjoon.level7_string.dial
 #import baekjoon.level7_string.croatia_alphabet
-import baekjoon.level7_string.group_word_checker
+#import baekjoon.level7_string.group_word_checker
+
+##6주차
+#import baekjoon.level8_math1.break_even_point
+#import baekjoon.level8_math1.sugar_delivery
+#import baekjoon.level8_math1.honeycomb
+#import baekjoon.level8_math1.find_fractional_num
+#import baekjoon.level8_math1.snail_want_to_climb
+#import baekjoon.level8_math1.hotel_acm
+#import baekjoon.level8_math1.be_the_president
+import baekjoon.level8_math1.fly_me_to_the_alpha_centauri
