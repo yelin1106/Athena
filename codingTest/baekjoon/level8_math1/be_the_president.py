@@ -18,5 +18,5 @@ for _ in range(t):
     for j in range(1,len(temp)):
       apartment[idx][j]=apartment[idx][j-1]+apartment[idx-1][j]
   print(apartment[-1][-1])
-    
+
 

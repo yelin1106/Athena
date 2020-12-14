@@ -8,7 +8,6 @@ while x>0:
   x-=cnt
 remain=cnt+x
 
-
 if cnt%2==1: #cnt가 홀수면 오른쪽 대각선 위로 올라가야함
   #cnt/1 부터 1/cnt의 순서로 바뀌어야 함
   print(f'{cnt-remain+1}/{remain}')

@@ -16,11 +16,13 @@ for _ in range(t):
     remain-=i
     cnt+=1
   if remain != 0:
-    #i-=1
-    #print(i)
     while remain>0:
       remain-=i
       cnt+=1
       i-=1
       print(f'2end while {remain} {cnt} {i}')
   print(cnt)
+
+  #혜린언니, 도연이
+  #제곱수에서 수가 바뀐다는 규칙을 활용하여 문제를 품
+  #출제자의 의도
