@@ -123,8 +123,16 @@
 
 
 ## Week 7 (20/12/13~20/12/17)
-- [ ] jump to python 7장 다
-- [ ] do it 07. 문자열 검색
-- [ ] do it 08. 리스트 (1~2)
+- [X] jump to python 7장 다
+- [X] do it 07. 문자열 검색
+- [X] do it 08. 리스트 (1~2)
 - [ ] baekjoon step10 재귀 - 별찍기, 하노이 다시 풀기
 - [ ] baekjoon step9 수학2 - 1,2,3,6,7 (5문)
+
+| step9 수학2 | step10 재귀 |
+|---|---|
+| :heavy_check_mark: 소수 찾기 | 별 찍기 - 10 |
+| :heavy_check_mark: 소수 | 하노이 탑 이동 순서 |
+| :heavy_check_mark: 소수 구하기 |  |
+| :heavy_check_mark: 직사각형에서 탈출 |  |
+| :heavy_check_mark: 네 번째 점 |  |
