@@ -127,7 +127,7 @@
 - [X] do it 07. 문자열 검색
 - [X] do it 08. 리스트 (1~2)
 - [ ] baekjoon step10 재귀 - 별찍기, 하노이 다시 풀기
-- [ ] baekjoon step9 수학2 - 1,2,3,6,7 (5문)
+- [X] baekjoon step9 수학2 - 1,2,3,6,7 (5문)
 
 | step9 수학2 | step10 재귀 |
 |---|---|
