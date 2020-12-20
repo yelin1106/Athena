@@ -132,7 +132,7 @@
 | step9 수학2 | step10 재귀 |
 |---|---|
 | :heavy_check_mark: 소수 찾기 | 별 찍기 - 10 |
-| :heavy_check_mark: 소수 | 하노이 탑 이동 순서 |
+| :heavy_check_mark: 소수 | :heavy_check_mark: 하노이 탑 이동 순서 |
 | :heavy_check_mark: 소수 구하기 |  |
 | :heavy_check_mark: 직사각형에서 탈출 |  |
 | :heavy_check_mark: 네 번째 점 |  |
