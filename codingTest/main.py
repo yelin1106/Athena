@@ -23,6 +23,9 @@
 #import realization.ch4_2
 #import realization.ch4_3
 
+#import baekjoon.level3_for.multiplication_table
+#import baekjoon.level3_for.A_plus_B_3
+
 
 ##4주차
 #import baekjoon.level20.search_num
@@ -59,7 +62,7 @@
 
 #import baekjoon.level10_recursion.factorial
 #import baekjoon.level10_recursion.fibonacci_num_5
-import baekjoon.level10_recursion.print_star_10
+#import baekjoon.level10_recursion.print_star_10
 #import baekjoon.level10_recursion.tower_of_hanoi
 
 
@@ -69,3 +72,15 @@ import baekjoon.level10_recursion.print_star_10
 #import baekjoon.level9_math2.get_prime_num
 #import baekjoon.level9_math2.escape_from_rectangle
 #import baekjoon.level9_math2.fourth_dot
+
+##8주차
+#import baekjoon.level9_math2.Bertrand_postulate
+#import baekjoon.level9_math2.Goldbach_conjecture
+#import baekjoon.level9_math2.rectangle
+#import baekjoon.level9_math2.taxicab_geometry
+#import baekjoon.level9_math2.turret
+
+#import baekjoon.level11_brute_force.black_jack
+#import baekjoon.level11_brute_force.division_sum
+#import baekjoon.level11_brute_force.physique_volume
+import baekjoon.level11_brute_force.end_of_earth

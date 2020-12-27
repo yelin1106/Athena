@@ -6,6 +6,7 @@ num=[1,3,5,7]
 #num=list(map(int,input().split()))
 
 temp_list=[True]*1000
+
 end=int(1000**0.5)+1
 for i in range(2, end):
   if temp_list[i]==True:

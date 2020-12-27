@@ -15,7 +15,7 @@
 | :heavy_check_mark: [실전문제] 숫자 카드 게임 | :heavy_check_mark: Q03 문자열 뒤집기 |
 | :heavy_check_mark: [실전문제] 1이 될 때까지 | Q04 만들 수 없는 금액 |
 |  | :heavy_check_mark: Q05 볼링공 고르기 |
-|  | [ ] Q06 무지의 먹방 라이브 |
+|  | Q06 무지의 먹방 라이브 |
 
 ### Baekjoon
 | step2 if문 |
@@ -37,8 +37,8 @@
 ### Baekjoon
 | step3 for문 | step4 while문 |
 |---|---|
-| 구구단 | A+B - 5 |
-| A+B - 3 |  A+B - 4 |
+| :heavy_check_mark: 구구단 | A+B - 5 |
+| :heavy_check_mark: A+B - 3 |  A+B - 4 |
 | 합 | 더하기 사이클 |
 | 빠른 A+B |  |
 | N 찍기 |  |
@@ -107,32 +107,46 @@
 - [X] do it 06. 정렬 알고리즘
 - [X] jump to python 6장 다
 - [X] baekjoon step8 수학1 (8문)
-- [ ] baekjoon step10 재귀 (4문)
+- [X] baekjoon step10 재귀 (4문)
 
 ### Baekjoon
 | step8 수학1 | step10 재귀 |
 |---|---|
 | :heavy_check_mark: 손익분기점 | :heavy_check_mark: 팩토리얼 |
 | :heavy_check_mark: 설탕 배달 | :heavy_check_mark: 피보나치 수 5 |
-| :heavy_check_mark: 벌집 | 별 찍기 - 10 |
-| :heavy_check_mark: 분수찾기 | 하노이 탑 이동 순서 |
+| :heavy_check_mark: 벌집 | :heavy_check_mark: 별 찍기 - 10 |
+| :heavy_check_mark: 분수찾기 | :heavy_check_mark: 하노이 탑 이동 순서 |
 | :heavy_check_mark: 달팽이는 올라가고 싶다 |  |
 | :heavy_check_mark: ACM 호텔 |  |
 | :heavy_check_mark: 부녀회장이 될테야 |  |
 | :heavy_check_mark: Fly me to the Alpha Centauri |  |
 
 
-## Week 7 (20/12/13~20/12/17)
+## Week 7 (20/12/13~20/12/20 pm 2)
 - [X] jump to python 7장 다
 - [X] do it 07. 문자열 검색
 - [X] do it 08. 리스트 (1~2)
-- [ ] baekjoon step10 재귀 - 별찍기, 하노이 다시 풀기
+- [X] baekjoon step10 재귀 - 별찍기, 하노이 다시 풀기
 - [X] baekjoon step9 수학2 - 1,2,3,6,7 (5문)
 
-| step9 수학2 | step10 재귀 |
+| step9 수학2 |
+|---|
+| :heavy_check_mark: 소수 찾기 |
+| :heavy_check_mark: 소수 |
+| :heavy_check_mark: 소수 구하기 |
+| :heavy_check_mark: 직사각형에서 탈출 |
+| :heavy_check_mark: 네 번째 점 |
+
+
+## Week 8 (20/12/20~20/12/27 pm 2)
+- [X] do it 08. 리스트
+- [X] baekjoon step9 수학2 - 4,5,8,9,10 (5문)
+- [ ] baekjoon step11 브루트 포스 (5문))
+
+| step9 수학2 | step11 브루트 포스 |
 |---|---|
-| :heavy_check_mark: 소수 찾기 | 별 찍기 - 10 |
-| :heavy_check_mark: 소수 | :heavy_check_mark: 하노이 탑 이동 순서 |
-| :heavy_check_mark: 소수 구하기 |  |
-| :heavy_check_mark: 직사각형에서 탈출 |  |
-| :heavy_check_mark: 네 번째 점 |  |
+| :heavy_check_mark: 베르트랑 공준 | :heavy_check_mark: 블랙잭 |
+| :heavy_check_mark: 골드바흐의 추측 | :heavy_check_mark: 분해합 |
+| :heavy_check_mark: 직각삼각형 | :heavy_check_mark: 덩치 |
+| :heavy_check_mark: 택시 기하학 | 체스판 다시 칠하기 |
+| :heavy_check_mark: 터렛 | :heavy_check_mark: 영화감독 숌 |
