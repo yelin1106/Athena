@@ -12,5 +12,3 @@ for idx,card in enumerate(cards):
         sum_list[idx]=sum+card3
 
 print(max(sum_list))
-
-
