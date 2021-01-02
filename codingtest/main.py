@@ -89,4 +89,6 @@
 
 
 ##9주차
-import 
+#import baekjoon.level12_sorting.num_sorting
+#import baekjoon.level12_sorting.num_sorting_2
+import beakjoon.level12_sorting.num_sorting_3
