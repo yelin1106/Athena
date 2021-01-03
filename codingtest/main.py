@@ -91,4 +91,10 @@
 ##9주차
 #import baekjoon.level12_sorting.num_sorting
 #import baekjoon.level12_sorting.num_sorting_2
-import beakjoon.level12_sorting.num_sorting_3
+#import beakjoon.level12_sorting.num_sorting_3
+#import baekjoon.level12_sorting.statistics
+#import baekjoon.level12_sorting.sort_inside
+#import baekjoon.level12_sorting.coord_sort
+#import baekjoon.level12_sorting.coord_sort_2
+import baekjoon.level12_sorting.word_sort
+#import baekjoon.level12_sorting.stable_sort

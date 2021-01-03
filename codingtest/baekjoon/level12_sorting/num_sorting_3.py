@@ -10,4 +10,3 @@ for i in range(len(numbers)):
   if numbers[i]!=0:
     for _ in range(numbers[i]):
       print(i)
-  # sys.stdout.write(str(num)+'\n')

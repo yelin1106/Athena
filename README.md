@@ -153,17 +153,17 @@
 
 
 ## Week 9 (20/12/27~21/01/03 pm 2)
-- [ ] do it 09. 트리
-- [ ] baekjoon step12 정렬 (9문)
+- [X] do it 09. 트리
+- [X] baekjoon step12 정렬 (9문)
 
 | step12 정렬 |
 |---|
 | :heavy_check_mark: 수 정렬하기 |
 | :heavy_check_mark: 수 정렬하기 2 |
 | :heavy_check_mark: 수 정렬하기 3 |
-| 통계학 |
-| 소트인사이드 |
-| 좌표 정렬하기 |
-| 좌표 정렬하기 2 |
-| 단어 정렬 |
-| 나이순 정렬 |
+| :heavy_check_mark: 통계학 |
+| :heavy_check_mark: 소트인사이드 |
+| :heavy_check_mark: 좌표 정렬하기 |
+| :heavy_check_mark: 좌표 정렬하기 2 |
+| :heavy_check_mark: 단어 정렬 |
+| :heavy_check_mark: 나이순 정렬 |
