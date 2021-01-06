@@ -19,8 +19,8 @@ n=int(input())
 words=[]
 for _ in range(n):
   words.append(input())
-words=sorted(list(set(words)))
 
+words=sorted(list(set(words)))
 words=sorted(words, key=lambda x: len(x))
 
 for w in words:

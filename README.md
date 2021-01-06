@@ -167,3 +167,15 @@
 | :heavy_check_mark: 좌표 정렬하기 2 |
 | :heavy_check_mark: 단어 정렬 |
 | :heavy_check_mark: 나이순 정렬 |
+
+
+## Week10 (21/01/03~21/01/10 pm 2)
+- [X] baekjoon step8 수학1, step9 수학2 추가문제
+- [ ] baekjoon step13 백트래킹
+
+| 수학1, 수학2 | step13 백트래킹 |
+|---|---|
+| :heavy_check_mark: 큰 수 A+B | :heavy_check_mark: N과 M(1) |
+| :heavy_check_mark: 소인수분해 | :heavy_check_mark: N과 M(2) |
+|  | N-Queen |
+|  | 스타트와 링크 |
