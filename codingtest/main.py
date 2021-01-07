@@ -104,7 +104,10 @@
 ##10주차
 #import baekjoon.level8_math1.big_num_A_plus_B
 #import baekjoon.level9_math2.factorization_in_prime
+
 #import baekjoon.level13_backtracking.n_and_m_1
 #import baekjoon.level13_backtracking.n_and_m_2
 #import baekjoon.level13_backtracking.n_and_m_3
-import baekjoon.level13_backtracking.n_and_m_4
+#import baekjoon.level13_backtracking.n_and_m_4
+#import baekjoon.level13_backtracking.start_and_link
+import baekjoon.level13_backtracking.n_queen

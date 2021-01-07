@@ -178,4 +178,4 @@
 | :heavy_check_mark: 큰 수 A+B | :heavy_check_mark: N과 M(1) |
 | :heavy_check_mark: 소인수분해 | :heavy_check_mark: N과 M(2) |
 |  | N-Queen |
-|  | 스타트와 링크 |
+|  | :heavy_check_mark: 스타트와 링크 |
