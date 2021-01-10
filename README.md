@@ -179,3 +179,14 @@
 | :heavy_check_mark: 소인수분해 | :heavy_check_mark: N과 M(2) |
 |  | :heavy_check_mark: N-Queen |
 |  | :heavy_check_mark: 스타트와 링크 |
+
+
+## Week11 (21/01/10~21/01/17 pm 2)
+- [ ] baekjoon step13 백트래킹
+
+| step13 백트래킹 |
+|---|
+| N과 M(3) |
+| N과 M(4) |
+| 연산자 끼워넣기 |
+| 스도쿠 |

@@ -2,7 +2,7 @@
 
 # 처음 코드
 # def dfs(nums, m, ans, depth):
-#   if m==depth:
+#   if m==depth:#종료조건
 #     print(ans)
 #     return
 #   for n in nums:
@@ -11,7 +11,7 @@
 #     dfs(nums, m, ans+" "+str(n), depth+1)
 #   return 0
 
-# def call_dfs(n, m):
+# def call_dfs(n, m): # 4 2
 #   nums=[]
 #   for i in range(1,n+1):
 #     nums.append(i)
@@ -35,7 +35,7 @@ def dfs(depth, n, m, nums, check, ans):
     check[i]=True
     dfs(depth+1, n, m, nums, check, ans)
     #print(ans)
-    print(check)
+    #print(check)
     ans.pop()
     check[i]=False
     
