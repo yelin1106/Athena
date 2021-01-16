@@ -182,11 +182,11 @@
 
 
 ## Week11 (21/01/10~21/01/17 pm 2)
-- [ ] baekjoon step13 백트래킹
+- [X] baekjoon step13 백트래킹
 
 | step13 백트래킹 |
 |---|
-| N과 M(3) |
-| N과 M(4) |
-| 연산자 끼워넣기 |
-| 스도쿠 |
+| :heavy_check_mark: N과 M(3) |
+| :heavy_check_mark: N과 M(4) |
+| :heavy_check_mark: 연산자 끼워넣기 |
+| :heavy_check_mark: 스도쿠 |

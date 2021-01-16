@@ -110,4 +110,8 @@
 #import baekjoon.level13_backtracking.n_and_m_3
 #import baekjoon.level13_backtracking.n_and_m_4
 #import baekjoon.level13_backtracking.start_and_link
-import baekjoon.level13_backtracking.n_queen
+#import baekjoon.level13_backtracking.n_queen
+
+##11주차
+#import baekjoon.level13_backtracking.insert_operator
+import baekjoon.level13_backtracking.sudoku
