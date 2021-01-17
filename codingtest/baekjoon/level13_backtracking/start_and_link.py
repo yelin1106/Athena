@@ -5,7 +5,7 @@ def dfs(n, s, depth, check, cnt, ans):
     start, link=[],[]
     s_sum, l_sum=0,0
     for idx, flag in enumerate(check):
-      print(f'{idx} {flag}')
+      #print(f'{idx} {flag}')
       if flag: #True면 start팀
         start.append(idx)
       else:
@@ -27,7 +27,7 @@ def dfs(n, s, depth, check, cnt, ans):
 def call_dfs(n,s):
   check=[False]*n
   ans=[]
-  cnt=1
+  cnt=1 
   depth=1
   check[0]=True
   dfs(n, s, depth, check, cnt, ans)

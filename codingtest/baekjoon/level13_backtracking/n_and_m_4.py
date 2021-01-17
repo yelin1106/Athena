@@ -2,12 +2,12 @@
 
 def dfs(n, m, nums, check, ans):
   if len(ans)==m:
-    print(" ".join(map(str, ans)))
+    print(" ".join(map(str, ans))) 
     return
   for i in range(n):
     if check[i]: continue
     ans.append(nums[i])
-    dfs(n, m, nums, check, ans)
+    dfs(n, m, nums, check, ans) 
     ans.pop()
     check[i]=True
     for j in range(i+1, n):
