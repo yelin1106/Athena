@@ -114,4 +114,7 @@
 
 ##11주차
 #import baekjoon.level13_backtracking.insert_operator
-import baekjoon.level13_backtracking.sudoku
+#import baekjoon.level13_backtracking.sudoku
+
+##12주차
+import baekjoon.week12.lotto

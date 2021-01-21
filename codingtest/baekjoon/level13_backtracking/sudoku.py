@@ -13,7 +13,7 @@ sdk = [[0, 3, 5, 4, 6, 9, 2, 7, 8],
       [2, 5, 8, 3, 9, 4, 7, 6, 0]]
 
 
-# sdk = [list(map(int, input().split())) for _ in range(9)]
+sdk = [list(map(int, input().split())) for _ in range(9)]
 zeros = [(i, j) for i in range(9) for j in range(9) if sdk[i][j] == 0]
 
 def sdoku(index):

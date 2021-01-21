@@ -23,17 +23,32 @@
 # call_dfs(n, m)
 
 # 풀이2
-def dfs(n, m, nums, ans):
+# def dfs(n, m, nums, ans):
+#   if len(ans)==m:
+#     print(" ".join(map(str, ans)))
+#     return
+#   for i in range(n):
+#     ans.append(nums[i])
+#     dfs(n, m, nums, ans)
+#     ans.pop()
+#   return
+
+# n,m=map(int, input().split())
+# nums=[i for i in range(1, n+1)]
+# ans=[]
+# dfs(n, m, nums, ans)
+
+#210118 추가
+def dfs(n, m, ans):
   if len(ans)==m:
     print(" ".join(map(str, ans)))
     return
   for i in range(n):
-    ans.append(nums[i])
-    dfs(n, m, nums, ans)
+    ans.append(i+1)
+    dfs(n, m, ans)
     ans.pop()
   return
 
 n,m=map(int, input().split())
-nums=[i for i in range(1, n+1)]
 ans=[]
-dfs(n, m, nums, ans)
+dfs(n, m, ans)
