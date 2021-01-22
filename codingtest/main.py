@@ -117,4 +117,5 @@
 #import baekjoon.level13_backtracking.sudoku
 
 ##12주차
-import baekjoon.week12.lotto
+#import baekjoon.week12.lotto
+import baekjoon.week12.sum_of_partial_sequence
