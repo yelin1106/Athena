@@ -3,36 +3,20 @@
 
 ## Week 1 (20/10/29~20/11/04 pm 1)
 - [X] jump to python 4-1까지
-- [X] 이코테 01. 그리디 Part2, Part3
-- [X] baekjoon step2. if문 (5문)
 
-### Greedy
-| Part2 | Part3 |
-|---|---|
-| :heavy_check_mark: 당장 좋은 것만 선택하는 그리디 | :heavy_check_mark: [한 장으로 보는 알고리즘] 그리디 |
-| :heavy_check_mark: 예제 3-1 거스름돈 | :heavy_check_mark: Q01 모험가 길드 |
-| :heavy_check_mark: [실전문제] 큰 수의 법칙 | :heavy_check_mark: Q02 곱하기 혹은 더하기 |
-| :heavy_check_mark: [실전문제] 숫자 카드 게임 | :heavy_check_mark: Q03 문자열 뒤집기 |
-| :heavy_check_mark: [실전문제] 1이 될 때까지 | Q04 만들 수 없는 금액 |
-|  | :heavy_check_mark: Q05 볼링공 고르기 |
-|  | Q06 무지의 먹방 라이브 |
-
-### Baekjoon
-| step2 if문 |
-|---|
-| :heavy_check_mark: 두 수 비교하기 |
-| :heavy_check_mark: 시험 성적 |
-| :heavy_check_mark: 윤년 |
-| :heavy_check_mark: 사분면 고르기 |
-| :heavy_check_mark: 알람 시계 |
+| Greedy Part2 | Greedy Part3 | Baekjoon step2 if문 |
+|---|---|---|
+| :heavy_check_mark: 당장 좋은 것만 선택하는 그리디 | :heavy_check_mark: [한 장으로 보는 알고리즘] 그리디 | :heavy_check_mark: 두 수 비교하기 |
+| :heavy_check_mark: 예제 3-1 거스름돈 | :heavy_check_mark: Q01 모험가 길드 | :heavy_check_mark: 시험 성적 |
+| :heavy_check_mark: [실전문제] 큰 수의 법칙 | :heavy_check_mark: Q02 곱하기 혹은 더하기 | :heavy_check_mark: 윤년 |
+| :heavy_check_mark: [실전문제] 숫자 카드 게임 | :heavy_check_mark: Q03 문자열 뒤집기 | :heavy_check_mark: 사분면 고르기 |
+| :heavy_check_mark: [실전문제] 1이 될 때까지 | Q04 만들 수 없는 금액 | :heavy_check_mark: 알람 시계 |
+|  | :heavy_check_mark: Q05 볼링공 고르기 | |
+|  | Q06 무지의 먹방 라이브 | |
 
 
 ## Week 2 (20/11/04~20/11/11 pm 1)
 - [X] jump to python 4장 끝까지
-- [ ] 이코테 02. 구현 Part2
-- [ ] 이코테 03. DFS Part2
-- [ ] baekjoon step3. for (11문)
-- [ ] baekjoon step4. while (3문)
 
 ### Baekjoon
 | step3 for문 | step4 while문 |
@@ -55,7 +39,6 @@
 - [X] do it 01. 알고리즘 기초
 - [X] do it 02. 기본 자료구조와 배열
 - [X] do it 03. 검색 알고리즘 03 이진검색
-- [ ] baekjoon step5 1차원 배열 (7문)
 
 ### Baekjoon
 | step5 1차원 배열 |
@@ -198,7 +181,7 @@
 | :heavy_check_mark: 로또 |
 | :heavy_check_mark: 부분수열의 합 |
 | 1,2,3 더하기 |
-| 약수 |
-| 최대공약수와 최소공배수 |
+| :heavy_check_mark: 약수 |
+| :heavy_check_mark: 최대공약수와 최소공배수 |
 | 치킨배달 |
 | 좋은수열 |

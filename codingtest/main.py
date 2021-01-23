@@ -118,4 +118,8 @@
 
 ##12주차
 #import baekjoon.week12.lotto
-import baekjoon.week12.sum_of_partial_sequence
+#import baekjoon.week12.sum_of_partial_sequence
+#import baekjoon.week12.plus_1_2_3
+#import baekjoon.week12.real_divisor
+#import baekjoon.week12.gcd_and_lcm
+import baekjoon.week12.delivery_chicken
