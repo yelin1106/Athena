@@ -176,12 +176,12 @@
 
 
 ## 백준 문제풀이
-| Week12 (~21/01/24) |
-|---|
-| :heavy_check_mark: 로또 |
-| :heavy_check_mark: 부분수열의 합 |
-| :heavy_check_mark: 1,2,3 더하기 |
-| :heavy_check_mark: 약수 |
-| :heavy_check_mark: 최대공약수와 최소공배수 |
-| :heavy_check_mark: 치킨배달 |
-| :heavy_check_mark: 좋은수열 |
+| Week12 (~21/01/24) | Week13 (~21/01/31) |
+|---|---|
+| :heavy_check_mark: 로또 | 가로수 |
+| :heavy_check_mark: 부분수열의 합 | 소수의 연속합 |
+| :heavy_check_mark: 1,2,3 더하기 | 골드바흐의 추측 |
+| :heavy_check_mark: 약수 | 환상의 짝꿍 |
+| :heavy_check_mark: 최대공약수와 최소공배수 | DFS와 BFS |
+| :heavy_check_mark: 치킨배달 | 단지번호 붙이기 |
+| :heavy_check_mark: 좋은수열 | 숨바꼭질 |

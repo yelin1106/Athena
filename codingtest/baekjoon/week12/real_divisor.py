@@ -1,7 +1,7 @@
-# 진짜 약수
+# 약수
 
-n=2
-divisor=[4, 2]
+# n=2
+# divisor=[4, 2]
 
 n=int(input())
 divisor=list(map(int, input().split()))
