@@ -180,8 +180,8 @@
 |---|
 | :heavy_check_mark: 로또 |
 | :heavy_check_mark: 부분수열의 합 |
-| 1,2,3 더하기 |
+| :heavy_check_mark: 1,2,3 더하기 |
 | :heavy_check_mark: 약수 |
 | :heavy_check_mark: 최대공약수와 최소공배수 |
-| 치킨배달 |
-| 좋은수열 |
+| :heavy_check_mark: 치킨배달 |
+| :heavy_check_mark: 좋은수열 |

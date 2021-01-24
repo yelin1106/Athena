@@ -9,7 +9,6 @@ nums=list(map(int, input().split()))
 def dfs(n, s, nums, check, depth, hap):
   ans=0
   if depth>0 and hap==s:
-    #print(check)
     ans+=1
   if depth==n:
     return ans
