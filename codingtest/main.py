@@ -122,5 +122,9 @@
 #import baekjoon.week12.plus_1_2_3
 #import baekjoon.week12.real_divisor
 #import baekjoon.week12.gcd_and_lcm
-import baekjoon.week12.delivery_chicken
+#import baekjoon.week12.delivery_chicken
 #import baekjoon.week12.good_sequence
+
+
+##13주차
+import baekjoon.week13.street_trees

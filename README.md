@@ -178,7 +178,7 @@
 ## 백준 문제풀이
 | Week12 (~21/01/24) | Week13 (~21/01/31) |
 |---|---|
-| :heavy_check_mark: 로또 | 가로수 |
+| :heavy_check_mark: 로또 | :heavy_check_mark: 가로수 |
 | :heavy_check_mark: 부분수열의 합 | 소수의 연속합 |
 | :heavy_check_mark: 1,2,3 더하기 | 골드바흐의 추측 |
 | :heavy_check_mark: 약수 | 환상의 짝꿍 |
