@@ -127,4 +127,8 @@
 
 
 ##13주차
-import baekjoon.week13.street_trees
+#import baekjoon.week13.street_trees
+#import baekjoon.week13.sequential_sum
+#import baekjoon.week13.goldbach_number
+#import baekjoon.week13.best_friend
+import baekjoon.week13.dfs_and_bfs
