@@ -29,7 +29,7 @@ for _ in range(t):
   if hap%2==0: #골드바흐의 추측
     print("YES")
     continue
-  if is_prime(hap-2):
+  if is_prime(hap-2): #홀수=홀수+짝수
     print("YES")
   else:
     print("NO")

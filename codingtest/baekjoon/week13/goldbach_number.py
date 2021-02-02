@@ -10,7 +10,7 @@ for i in range(2,end):
 n=int(input())
 while n!=0:
   for i in range(2,n//2+1):
-    if prime[i] and prime[n-i] and i+n-i==n:
+    if prime[i] and prime[n-i]==n:
       print(f'{n} = {i} + {n-i}')
       break
   else:
