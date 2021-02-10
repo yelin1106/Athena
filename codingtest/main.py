@@ -130,4 +130,5 @@
 #import baekjoon.level14_DP.integer_triangle
 
 ##15주차
-import baekjoon.week15.explore_maze
+#import baekjoon.week15.explore_maze
+import baekjoon.week15.virus

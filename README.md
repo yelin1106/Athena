@@ -179,8 +179,8 @@
 | Week12 (~21/01/24) | Week13 (~21/01/31) | Week15 (~21/02/07) |
 |---|---|---|
 | :heavy_check_mark: 로또 | :heavy_check_mark: 가로수 | 제곱 ㄴㄴ 수 |
-| :heavy_check_mark: 부분수열의 합 | :heavy_check_mark: 소수의 연속합 | 미로 탐색 |
-| :heavy_check_mark: 1,2,3 더하기 | :heavy_check_mark: 골드바흐의 추측 | 바이러스 |
+| :heavy_check_mark: 부분수열의 합 | :heavy_check_mark: 소수의 연속합 | :heavy_check_mark: 미로 탐색 |
+| :heavy_check_mark: 1,2,3 더하기 | :heavy_check_mark: 골드바흐의 추측 | :heavy_check_mark: 바이러스 |
 | :heavy_check_mark: 약수 | :heavy_check_mark: 환상의 짝꿍 | :heavy_check_mark: 피보나치 함수 |
 | :heavy_check_mark: 최대공약수와 최소공배수 | :heavy_check_mark: DFS와 BFS | 1로 만들기 |
 | :heavy_check_mark: 치킨배달 | :heavy_check_mark: 단지번호 붙이기 | 계단 오르기 |
