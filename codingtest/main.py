@@ -127,8 +127,11 @@
 #import baekjoon.level14_DP.tile_01
 #import baekjoon.level14_DP.padovan_sequence
 #import baekjoon.level14_DP.street_RGB
-#import baekjoon.level14_DP.integer_triangle
 
 ##15주차
 #import baekjoon.week15.explore_maze
-import baekjoon.week15.virus
+#import baekjoon.week15.virus
+#import baekjoon.week15.integer_triangle
+#import baekjoon.week15.make_1
+#import baekjoon.week15.go_up_the_stairs
+import baekjoon.week15.not_square_number
