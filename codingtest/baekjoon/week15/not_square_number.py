@@ -4,7 +4,7 @@ import math
 
 results = []
 min_num, max_num = map(int, input().split())
-validation = [1 for _ in range(min_num, max_num+1)]
+validation = [1 for _ in range(min_num, max_num+1)] 
 
 search_target = int(math.sqrt(max_num))
 squares = [v**2 for v in range(2, search_target+1)]

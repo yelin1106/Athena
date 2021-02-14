@@ -7,10 +7,10 @@
 # 111011
 
 # 4 6
-# 110110
-# 110110
-# 111111
-# 111101
+# 120890
+# 230780
+# 345678
+# 456709
 
 n, m=map(int, input().split())
 maze=[list(map(int,list(input()))) for _ in range(n)]
