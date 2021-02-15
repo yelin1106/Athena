@@ -121,12 +121,14 @@
 #import baekjoon.week13.town_number
 #import baekjoon.week13.hide_and_seek
 
-##14주차
+##add
 #import baekjoon.week15.fibonacci_function
 #import baekjoon.level14_DP.run_function
 #import baekjoon.level14_DP.tile_01
 #import baekjoon.level14_DP.padovan_sequence
 #import baekjoon.level14_DP.street_RGB
+
+#import baekjoon.add.number_card
 
 ##15주차
 #import baekjoon.week15.explore_maze
@@ -134,4 +136,8 @@
 #import baekjoon.week15.integer_triangle
 #import baekjoon.week15.make_1
 #import baekjoon.week15.go_up_the_stairs
-import baekjoon.week15.not_square_number
+#import baekjoon.week15.not_square_number
+
+
+##16주차
+import baekjoon.week16.destroy_wall
