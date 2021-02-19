@@ -129,7 +129,7 @@
 #import baekjoon.level14_DP.street_RGB
 
 #import baekjoon.add.number_card
-import baekjoon.add.stack
+#import baekjoon.add.stack
 
 ##15주차
 #import baekjoon.week15.explore_maze
@@ -141,5 +141,7 @@ import baekjoon.add.stack
 
 
 ##16주차
-#import baekjoon.week16.destroy_wall
+###import baekjoon.week16.destroy_wall
 #import baekjoon.week16.tomato_7576
+#import baekjoon.week16.tomato_7569
+import baekjoon.week16.tiling_2xn
