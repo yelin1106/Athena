@@ -178,11 +178,11 @@
 ## 백준 문제풀이
 | Week12 (~21/01/24) | Week13 (~21/01/31) | Week15 (~21/02/07) | Week16 (~21/02/14) |
 |---|---|---|---|
-| :heavy_check_mark: 로또 | :heavy_check_mark: 가로수 | :heavy_check_mark: 제곱 ㄴㄴ 수 | RGB거리 |
+| :heavy_check_mark: 로또 | :heavy_check_mark: 가로수 | :heavy_check_mark: 제곱 ㄴㄴ 수 | :heavy_check_mark: RGB거리 |
 | :heavy_check_mark: 부분수열의 합 | :heavy_check_mark: 소수의 연속합 | :heavy_check_mark: 미로 탐색 | 벽 부수고 이동하기 |
 | :heavy_check_mark: 1,2,3 더하기 | :heavy_check_mark: 골드바흐의 추측 | :heavy_check_mark: 바이러스 | :heavy_check_mark: 토마토 |
 | :heavy_check_mark: 약수 | :heavy_check_mark: 환상의 짝꿍 | :heavy_check_mark: 피보나치 함수 | :heavy_check_mark: 토마토 |
-| :heavy_check_mark: 최대공약수와 최소공배수 | :heavy_check_mark: DFS와 BFS | :heavy_check_mark: 1로 만들기 | 치즈 |
-| :heavy_check_mark: 치킨배달 | :heavy_check_mark: 단지번호 붙이기 | :heavy_check_mark: 계단 오르기 | 영역 구하기 |
-| :heavy_check_mark: 좋은수열 | :heavy_check_mark: 숨바꼭질 | :heavy_check_mark: 정수 삼각형 | 2Xn 타일링 |
-| | | | 2Xn 타일링 2 |
+| :heavy_check_mark: 최대공약수와 최소공배수 | :heavy_check_mark: DFS와 BFS | :heavy_check_mark: 1로 만들기 | :heavy_check_mark: 치즈 |
+| :heavy_check_mark: 치킨배달 | :heavy_check_mark: 단지번호 붙이기 | :heavy_check_mark: 계단 오르기 | :heavy_check_mark: 영역 구하기 |
+| :heavy_check_mark: 좋은수열 | :heavy_check_mark: 숨바꼭질 | :heavy_check_mark: 정수 삼각형 | :heavy_check_mark: 2Xn 타일링 |
+| | | | :heavy_check_mark: 2Xn 타일링 2 |
