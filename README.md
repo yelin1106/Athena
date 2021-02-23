@@ -176,7 +176,7 @@
 
 
 ## 백준 문제풀이
-| Week12 (~21/01/24) | Week13 (~21/01/31) | Week15 (~21/02/07) | Week16 (~21/02/14) |
+| Week12 (~21/01/24) | Week13 (~21/01/31) | Week15 (~21/02/14) | Week16 (~21/02/21) |
 |---|---|---|---|
 | :heavy_check_mark: 로또 | :heavy_check_mark: 가로수 | :heavy_check_mark: 제곱 ㄴㄴ 수 | :heavy_check_mark: RGB거리 |
 | :heavy_check_mark: 부분수열의 합 | :heavy_check_mark: 소수의 연속합 | :heavy_check_mark: 미로 탐색 | :heavy_check_mark: 벽 부수고 이동하기 |
@@ -186,3 +186,14 @@
 | :heavy_check_mark: 치킨배달 | :heavy_check_mark: 단지번호 붙이기 | :heavy_check_mark: 계단 오르기 | :heavy_check_mark: 영역 구하기 |
 | :heavy_check_mark: 좋은수열 | :heavy_check_mark: 숨바꼭질 | :heavy_check_mark: 정수 삼각형 | :heavy_check_mark: 2Xn 타일링 |
 | | | | :heavy_check_mark: 2Xn 타일링 2 |
+
+
+| Week17 (~21/02/28) |
+|---|
+| 텀 프로젝트 |
+| 연속합 |
+| 동전1 |
+| 포도주 시식 |
+| 카드 구매하기 |
+| 가장 긴 증가하는 부분 수열 |
+| 카드 정렬하기 |

@@ -141,10 +141,15 @@
 
 
 ##16주차
-import baekjoon.week16.destroy_wall
+#import baekjoon.week16.destroy_wall
 #import baekjoon.week16.tomato_7576
 #import baekjoon.week16.tomato_7569
 #import baekjoon.week16.tiling_2xn
 #import baekjoon.week16.tiling_2xn_2
 #import baekjoon.week16.cheeze
 #import baekjoon.week16.get_area
+
+
+##17주차
+#import baekjoon.week17.sequential_sum
+import baekjoon.week17.term_project
