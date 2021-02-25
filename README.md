@@ -192,8 +192,8 @@
 |---|
 | :heavy_check_mark: 텀 프로젝트 |
 | :heavy_check_mark: 연속합 |
-| 동전1 |
-| 포도주 시식 |
+| :heavy_check_mark: 동전1 |
+| :heavy_check_mark: 포도주 시식 |
 | 카드 구매하기 |
 | 가장 긴 증가하는 부분 수열 |
 | 카드 정렬하기 |

@@ -152,4 +152,6 @@
 
 ##17주차
 #import baekjoon.week17.sequential_sum
-import baekjoon.week17.term_project
+#import baekjoon.week17.term_project
+#import baekjoon.week17.coin_1
+import baekjoon.week17.try_wine
