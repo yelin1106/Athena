@@ -194,6 +194,6 @@
 | :heavy_check_mark: 연속합 |
 | :heavy_check_mark: 동전1 |
 | :heavy_check_mark: 포도주 시식 |
-| 카드 구매하기 |
-| 가장 긴 증가하는 부분 수열 |
+| :heavy_check_mark: 카드 구매하기 |
+| :heavy_check_mark: 가장 긴 증가하는 부분 수열 |
 | 카드 정렬하기 |

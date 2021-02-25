@@ -154,4 +154,7 @@
 #import baekjoon.week17.sequential_sum
 #import baekjoon.week17.term_project
 #import baekjoon.week17.coin_1
-import baekjoon.week17.try_wine
+#import baekjoon.week17.try_wine
+#import baekjoon.week17.buy_card
+#import baekjoon.week17.longest_part_sequence
+import baekjoon.week17.sort_card
