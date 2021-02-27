@@ -131,6 +131,12 @@
 #import baekjoon.add.number_card
 #import baekjoon.add.stack
 
+#import baekjoon.add.queue
+#import baekjoon.add.deque
+#import baekjoon.add.editor
+#import baekjoon.add.treasure
+import baekjoon.add.sort_and_remove_repeat
+
 ##15주차
 #import baekjoon.week15.explore_maze
 #import baekjoon.week15.virus
@@ -157,4 +163,4 @@
 #import baekjoon.week17.try_wine
 #import baekjoon.week17.buy_card
 #import baekjoon.week17.longest_part_sequence
-import baekjoon.week17.sort_card
+#import baekjoon.week17.sort_card
