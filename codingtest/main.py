@@ -135,7 +135,7 @@
 #import baekjoon.add.deque
 #import baekjoon.add.editor
 #import baekjoon.add.treasure
-import baekjoon.add.sort_and_remove_repeat
+#import baekjoon.add.sort_and_remove_repeat
 
 ##15주차
 #import baekjoon.week15.explore_maze
@@ -162,5 +162,5 @@ import baekjoon.add.sort_and_remove_repeat
 #import baekjoon.week17.coin_1
 #import baekjoon.week17.try_wine
 #import baekjoon.week17.buy_card
-#import baekjoon.week17.longest_part_sequence
+import baekjoon.week17.longest_part_sequence
 #import baekjoon.week17.sort_card

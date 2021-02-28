@@ -15,4 +15,5 @@ for i in range(n):
   dp[i]+=1
   max_value=max(dp[i],max_value)
 
+print(dp)
 print(max_value)

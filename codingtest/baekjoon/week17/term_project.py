@@ -15,7 +15,7 @@ def dfs(i):
   cycle.append(i)
   number=numbers[i]
 
-  if visited[number]:
+  if visited[number]: 
     if number in cycle:
       result+=cycle[cycle.index(number):]
     return

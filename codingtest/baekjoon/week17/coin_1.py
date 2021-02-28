@@ -1,7 +1,6 @@
 # 동전 1
 # https://www.acmicpc.net/problem/2293
 
-
 # 3 10
 # 1
 # 2

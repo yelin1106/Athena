@@ -18,7 +18,7 @@ dp=[0]*n
 dp[0]=n_list[0]
 max_num=dp[0]
 for i in range(1,n):
-  dp[i]= dp[i-1]+n_list[i] if dp[i-1]+n_list[i]>n_list[i] else n_list[i]
-  max_num= dp[i] if dp[i]>max_num else max_num
+  dp[i]= max(dp[i-1]+n_list[i], n_list[i])
+  max_num= max(dp[i],max_num)
 
 print(max_num)
