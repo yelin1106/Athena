@@ -1,3 +1,28 @@
+##add
+#import baekjoon.week15.fibonacci_function
+#import baekjoon.level14_DP.run_function
+#import baekjoon.level14_DP.tile_01
+#import baekjoon.level14_DP.padovan_sequence
+#import baekjoon.level14_DP.street_RGB
+
+#import baekjoon.add.number_card
+#import baekjoon.add.stack
+
+#import baekjoon.add.queue
+#import baekjoon.add.deque
+#import baekjoon.add.editor
+#import baekjoon.add.treasure
+#import baekjoon.add.sort_and_remove_repeat
+
+##18주차
+#import baekjoon.week18.rope
+#import baekjoon.week18.inequality_sign
+#import baekjoon.week18.cut_tree
+#import baekjoon.week18.cut_lenwire
+#import baekjoon.week18.budget
+#import baekjoon.week18.say_center
+import baekjoon.week18.gem_thief
+
 ##1주차
 #import greedy.ch3_1
 #import greedy.ch3_2
@@ -102,65 +127,3 @@
 ##11주차
 #import baekjoon.level13_backtracking.insert_operator
 #import baekjoon.level13_backtracking.sudoku
-
-##12주차
-#import baekjoon.week12.lotto
-#import baekjoon.week12.sum_of_partial_sequence
-#import baekjoon.week12.plus_1_2_3
-#import baekjoon.week12.real_divisor
-#import baekjoon.week12.gcd_and_lcm
-#import baekjoon.week12.delivery_chicken
-#import baekjoon.week12.good_sequence
-
-##13주차
-#import baekjoon.week13.street_trees
-#import baekjoon.week13.sequential_sum
-#import baekjoon.week13.goldbach_number
-#import baekjoon.week13.best_friend
-#import baekjoon.week13.dfs_and_bfs
-#import baekjoon.week13.town_number
-#import baekjoon.week13.hide_and_seek
-
-##add
-#import baekjoon.week15.fibonacci_function
-#import baekjoon.level14_DP.run_function
-#import baekjoon.level14_DP.tile_01
-#import baekjoon.level14_DP.padovan_sequence
-#import baekjoon.level14_DP.street_RGB
-
-#import baekjoon.add.number_card
-#import baekjoon.add.stack
-
-#import baekjoon.add.queue
-#import baekjoon.add.deque
-#import baekjoon.add.editor
-#import baekjoon.add.treasure
-#import baekjoon.add.sort_and_remove_repeat
-
-##15주차
-#import baekjoon.week15.explore_maze
-#import baekjoon.week15.virus
-#import baekjoon.week15.integer_triangle
-#import baekjoon.week15.make_1
-#import baekjoon.week15.go_up_the_stairs
-#import baekjoon.week15.not_square_number
-
-
-##16주차
-#import baekjoon.week16.destroy_wall
-#import baekjoon.week16.tomato_7576
-#import baekjoon.week16.tomato_7569
-#import baekjoon.week16.tiling_2xn
-#import baekjoon.week16.tiling_2xn_2
-#import baekjoon.week16.cheeze
-#import baekjoon.week16.get_area
-
-
-##17주차
-#import baekjoon.week17.sequential_sum
-#import baekjoon.week17.term_project
-#import baekjoon.week17.coin_1
-#import baekjoon.week17.try_wine
-#import baekjoon.week17.buy_card
-import baekjoon.week17.longest_part_sequence
-#import baekjoon.week17.sort_card

@@ -190,10 +190,10 @@
 
 | Week17 (~21/02/28) | Week18 (~21/02/07) |
 |---|---|
-| :heavy_check_mark: 텀 프로젝트 | 로프 |
-| :heavy_check_mark: 연속합 | 부등호 |
-| :heavy_check_mark: 동전1 | 나무 자르기 |
-| :heavy_check_mark: 포도주 시식 | 랜선 자르기 |
-| :heavy_check_mark: 카드 구매하기 | 예산 |
-| :heavy_check_mark: 가장 긴 증가하는 부분 수열 | 가운데를 말해요 |
-| :heavy_check_mark: 카드 정렬하기 | 보석 도둑 |
+| :heavy_check_mark: 텀 프로젝트 | :heavy_check_mark: 로프 |
+| :heavy_check_mark: 연속합 | :heavy_check_mark: 부등호 |
+| :heavy_check_mark: 동전1 | :heavy_check_mark: 나무 자르기 |
+| :heavy_check_mark: 포도주 시식 | :heavy_check_mark: 랜선 자르기 |
+| :heavy_check_mark: 카드 구매하기 | :heavy_check_mark: 예산 |
+| :heavy_check_mark: 가장 긴 증가하는 부분 수열 | :heavy_check_mark: 가운데를 말해요 |
+| :heavy_check_mark: 카드 정렬하기 | :heavy_check_mark: 보석 도둑 |
