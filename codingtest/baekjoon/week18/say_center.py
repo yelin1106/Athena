@@ -34,4 +34,4 @@ for i in range(1,n):
     heapq.heappush(max_heap, [-pop_temp,pop_temp])
   # print(max_heap)
   # print(min_heap)
-  print(max_heap[0][1])  
+  print(max_heap[0][1])

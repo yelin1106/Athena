@@ -15,7 +15,6 @@ gem=[]
 for _ in range(n):
   weight, price=map(int, sys.stdin.readline().split())
   heapq.heappush(gem,[weight, price])
-
 bags=[]
 for i in range(k):
   heapq.heappush(bags,int(sys.stdin.readline()))
@@ -30,4 +29,3 @@ for _ in range(k):
     answer-= heapq.heappop(capable_gem)
 
 print(answer)
-

@@ -9,7 +9,7 @@ n=int(input())
 n_nums=list(map(int, input().split()))
 m=int(input())
 
-if sum(n_nums)==m:
+if sum(n_nums)<=m:
   print(max(n_nums))
   exit()
 

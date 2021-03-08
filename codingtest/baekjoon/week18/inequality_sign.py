@@ -22,7 +22,6 @@ def dfs(k, sign, depth, check, ans):
     check[i]=False
   return
 
-
 k=int(input())
 sign=list(input().split())
 

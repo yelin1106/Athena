@@ -14,14 +14,19 @@
 #import baekjoon.add.treasure
 #import baekjoon.add.sort_and_remove_repeat
 
+#import baekjoon.add.bracket
+#import baekjoon.add.stack_sequence
+#import baekjoon.add.josephus_permutation
+#import baekjoon.add.printer_queue
+
 ##18주차
 #import baekjoon.week18.rope
 #import baekjoon.week18.inequality_sign
 #import baekjoon.week18.cut_tree
 #import baekjoon.week18.cut_lenwire
 #import baekjoon.week18.budget
-#import baekjoon.week18.say_center
-import baekjoon.week18.gem_thief
+import baekjoon.week18.say_center
+#import baekjoon.week18.gem_thief
 
 ##1주차
 #import greedy.ch3_1
