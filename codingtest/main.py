@@ -18,15 +18,16 @@
 #import baekjoon.add.stack_sequence
 #import baekjoon.add.josephus_permutation
 #import baekjoon.add.printer_queue
+#import baekjoon.add.ac
 
-##18주차
-#import baekjoon.week18.rope
-#import baekjoon.week18.inequality_sign
-#import baekjoon.week18.cut_tree
-#import baekjoon.week18.cut_lenwire
-#import baekjoon.week18.budget
-import baekjoon.week18.say_center
-#import baekjoon.week18.gem_thief
+##19주차
+#import baekjoon.week19.min_heap
+#import baekjoon.week19.max_heap
+import baekjoon.week19.abs_heap
+#import baekjoon.week19.gas_station
+#import baekjoon.week19.fill_fuel
+#import baekjoon.week19.hand_out_book
+#import baekjoon.week19.god_of_math
 
 ##1주차
 #import greedy.ch3_1
