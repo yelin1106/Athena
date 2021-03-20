@@ -190,11 +190,11 @@
 
 | Week17 (~21/02/28) | Week18 (~21/03/07) | Week19 (~21/03/14) |
 |---|---|---|
-| :heavy_check_mark: 텀 프로젝트 | :heavy_check_mark: 로프 | 공유기 설치 |
-| :heavy_check_mark: 연속합 | :heavy_check_mark: 부등호 | 최소 힙 |
-| :heavy_check_mark: 동전1 | :heavy_check_mark: 나무 자르기 | 최대 힙 |
-| :heavy_check_mark: 포도주 시식 | :heavy_check_mark: 랜선 자르기 | 절댓값 힙 |
-| :heavy_check_mark: 카드 구매하기 | :heavy_check_mark: 예산 | 책 나눠주기 |
-| :heavy_check_mark: 가장 긴 증가하는 부분 수열 | :heavy_check_mark: 가운데를 말해요 | 주유소 |
-| :heavy_check_mark: 카드 정렬하기 | :heavy_check_mark: 보석 도둑 | 연료 채우기 |
-| | | 숫자의 신 |
+| :heavy_check_mark: 텀 프로젝트 | :heavy_check_mark: 로프 | :heavy_check_mark: 공유기 설치 |
+| :heavy_check_mark: 연속합 | :heavy_check_mark: 부등호 | :heavy_check_mark: 최소 힙 |
+| :heavy_check_mark: 동전1 | :heavy_check_mark: 나무 자르기 | :heavy_check_mark: 최대 힙 |
+| :heavy_check_mark: 포도주 시식 | :heavy_check_mark: 랜선 자르기 | :heavy_check_mark: 절댓값 힙 |
+| :heavy_check_mark: 카드 구매하기 | :heavy_check_mark: 예산 | :heavy_check_mark: 책 나눠주기 |
+| :heavy_check_mark: 가장 긴 증가하는 부분 수열 | :heavy_check_mark: 가운데를 말해요 | :heavy_check_mark: 주유소 |
+| :heavy_check_mark: 카드 정렬하기 | :heavy_check_mark: 보석 도둑 | :heavy_check_mark: 연료 채우기 |
+| | | :heavy_check_mark: 숫자의 신 |

@@ -1,3 +1,6 @@
+## 20주차
+import nacote.week20.greedy_2
+
 ##add
 #import baekjoon.week15.fibonacci_function
 #import baekjoon.level14_DP.run_function
@@ -19,15 +22,6 @@
 #import baekjoon.add.josephus_permutation
 #import baekjoon.add.printer_queue
 #import baekjoon.add.ac
-
-##19주차
-#import baekjoon.week19.min_heap
-#import baekjoon.week19.max_heap
-import baekjoon.week19.abs_heap
-#import baekjoon.week19.gas_station
-#import baekjoon.week19.fill_fuel
-#import baekjoon.week19.hand_out_book
-#import baekjoon.week19.god_of_math
 
 ##1주차
 #import greedy.ch3_1

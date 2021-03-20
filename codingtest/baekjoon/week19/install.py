@@ -1,28 +1,35 @@
 # 공유기 설치
+# https://www.acmicpc.net/problem/2110
 
-
+# 5 3
+# 1
+# 2
+# 8
+# 4
+# 9
 
 import sys
 
-N, C = map(int, input().split())
-home = [int(sys.stdin.readline()) for _ in range(N)]
-home.sort()
+n,c=map(int, sys.stdin.readline().split())
+nums=[]
+for _ in range(n):
+  nums.append(int(sys.stdin.readline()))
+nums.sort()
 
-left = 1
-right = home[-1] - home[0]
-while not right < left :
-  mid = (left + right) // 2
-  cnt = 1
-  temp = home[0] #공유기를 설치한 집
-  for i in range(1, N) : #집을 돌면서
-    if temp + mid <= home[i] : #앞서 공유기를 설치한 집과 기준 거리(제일 인접한 거리) 이상이면
-      temp = home[i] #공유기를 설치한다
-      cnt += 1
-  
-  if cnt >= C :
-    result = mid
-    left = mid + 1
-  else :
-    right = mid - 1
-
+start=1
+end=nums[-1]-nums[0]
+result=0
+while start<=end:
+  center=(start+end)//2
+  cnt=1
+  temp=nums[0]
+  for i in range(1, n):
+    if temp+center<=nums[i]:
+      temp=nums[i]
+      cnt+=1
+  if cnt>=c:
+    result=center
+    start=center+1
+  else:
+    end=center-1
 print(result)
