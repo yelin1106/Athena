@@ -198,3 +198,12 @@
 | :heavy_check_mark: 가장 긴 증가하는 부분 수열 | :heavy_check_mark: 가운데를 말해요 | :heavy_check_mark: 주유소 |
 | :heavy_check_mark: 카드 정렬하기 | :heavy_check_mark: 보석 도둑 | :heavy_check_mark: 연료 채우기 |
 | | | :heavy_check_mark: 숫자의 신 |
+
+
+| Week20 (~21/03/21) |
+|---|
+| ch03. 큰 수의 법칙 |
+| ch03. 숫자 카드 게임 |
+| ch03. 1이 될 때까지 |
+| ch04. 왕실의 나이트 |
+| ch04. 게임 개발 |

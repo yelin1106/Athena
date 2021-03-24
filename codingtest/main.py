@@ -1,5 +1,9 @@
 ## 20주차
 import nacote.week20.greedy_2
+#import nacote.week20.greedy_3
+#import nacote.week20.greedy_4
+#import nacote.week20.implement_2
+#import nacote.week20.implement_3
 
 ##add
 #import baekjoon.week15.fibonacci_function
