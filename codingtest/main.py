@@ -1,5 +1,8 @@
 ## 21주차
-import baekjoon.week21.
+#import nacote.week21.dfs_bfs_3
+#import nacote.week21.dfs_bfs_4
+#import nacote.week21.sort_4
+import nacote.week21.binary_2
 
 ##add
 #import baekjoon.week15.fibonacci_function
