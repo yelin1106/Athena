@@ -202,7 +202,7 @@
 
 | Week20 (~21/03/21) | Week21 (~21/03/28) |
 |---|--|
-| :heavy_check_mark: ch03. 큰 수의 법칙 | :heavy_check_mark: 음료수 얼려 먹기 |
+| :heavy_check_mark: ch03. 큰 수의 법칙 | 음료수 얼려 먹기 |
 | :heavy_check_mark: ch03. 숫자 카드 게임 | 미로 탈출 |
 | :heavy_check_mark: ch03. 1이 될 때까지 | 위에서 아래로 |
 | :heavy_check_mark: ch04. 왕실의 나이트 | 성적이 낮은 순서로 학생 출력하기 |
